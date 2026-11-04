@@ -31,10 +31,11 @@ Jundiaí – SP · [LinkedIn](https://www.linkedin.com/in/celso-da-silva-junior-
 
 ## Projetos em destaque
 
-- [Universal-Scheduler](https://github.com/brcelso/Universal-Scheduler) — Plataforma SaaS de agendamentos para vários tipos de negócio, com backend em Cloudflare Workers, frontend em React e automação de atendimento por WhatsApp.
-- [Leca-app](https://github.com/brcelso/Leca-app) — PWA instalável de rastreamento de hábitos, com React no frontend e dados no Cloudflare D1 via Workers.
+- [it-governance-scripts](https://github.com/brcelso/it-governance-scripts) — Scripts em PowerShell para inventário de endpoints e de software instalado, conformidade de software contra política de allow/block, auditoria de administradores locais, status de segurança do endpoint e conformidade de versão com um padrão ouro, com fila de remediação.
 - [github-workflow](https://github.com/brcelso/github-workflow) — Workflow de GitHub Actions que abre pull request de `develop` para `main`, notifica o Discord e faz o build do ambiente em Docker.
 - [openai](https://github.com/brcelso/openai) — Exemplo de integração com a API da OpenAI (Express), com Docker, configuração de deploy na Vercel e diagrama da estrutura.
+- [bun-server](https://github.com/brcelso/bun-server) — Servidor HTTP em Bun, com configuração de deploy na Vercel, e script Python de OAuth 1.0a que consulta o usuário autorizado na API do Twitter.
+- [next-project](https://github.com/brcelso/next-project) — Página em Next.js com login pelo GitHub via NextAuth e tela de entrada própria.
 
 ## Stack
 
